@@ -1,6 +1,6 @@
 {
   "name": "cytoscape-elk",
-  "version": "2.0.2",
+  "version": "2.0.2-ref-error-patch",
   "description": "The ELK layout algorithm adapter for Cytoscape.js",
   "main": "dist/cytoscape-elk.js",
   "author": {
@@ -44,7 +44,7 @@
     "cytoscape": "^3.2.0"
   },
   "dependencies": {
-    "elkjs": "^0.7.0"
+    "elkjs": "^0.8.2"
   },
   "prettier": {
     "singleQuote": true
